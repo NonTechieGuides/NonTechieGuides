@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NonTechieGuides
 - 👀 I’m interested in learning, then passing on all kinds of stuff about the modern web, like the JAMStack & more.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NextJS, React, Sanity.io, etc.
+- 💞️ I’m looking to collaborate on code writing and a book about the Jamstack for non-developers ... its time that the rest of the world discovers the magic of the modern web, moves away from those monolithic website builders and embraces Jamstack! Help me write this book.
 - 📫 How to reach me ... send me an email: rich@nontechiehuides.io
 
 <!---
